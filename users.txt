@@ -1,4 +1,8 @@
 Amandeep Brar
 Harmanjit Singh
 Zeal Patel
+<<<<<<< HEAD
 gesu bal
+=======
+
+>>>>>>> master
