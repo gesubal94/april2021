@@ -1,4 +1,8 @@
 Amandeep Brar
 Harmanjit Singh
 Zeal Patel
+<<<<<<< HEAD
 Gesu Bal
+=======
+gesu bal
+>>>>>>> new_feature
